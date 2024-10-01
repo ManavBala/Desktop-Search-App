@@ -11,7 +11,7 @@ The Desktop Search Application is a Python tool that uses Natural Language Proce
 - Efficient Search using vector stores
 
 ## Project Structure
-`
+```
 ├── desktop_search_app.py 
 ├── file_processing.py 
 ├── indexing.py 
@@ -19,7 +19,7 @@ The Desktop Search Application is a Python tool that uses Natural Language Proce
 ├── requirements.txt 
 ├── indexed_files.json 
 └── README.md
-`
+```
 
 
 ## Prerequisites
